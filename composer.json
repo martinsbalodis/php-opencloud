@@ -1,5 +1,5 @@
 {
-    "name": "rackspace/php-opencloud",
+    "name": "martinsbalodis/php-opencloud",
     "description": "PHP SDK for Rackspace/OpenStack APIs",
     "keywords": ["rackspace", "openstack", "opencloud", "swift", "nova"],
     "type": "library",
